@@ -1,0 +1,10 @@
+F:\visual studio 2017\c##\Slide Show\bin\Debug\Slide Show.exe.config
+F:\visual studio 2017\c##\Slide Show\bin\Debug\Slide Show.exe
+F:\visual studio 2017\c##\Slide Show\bin\Debug\Slide Show.pdb
+F:\visual studio 2017\c##\Slide Show\obj\Debug\Slide Show.csprojAssemblyReference.cache
+F:\visual studio 2017\c##\Slide Show\obj\Debug\Slide_Show.Form1.resources
+F:\visual studio 2017\c##\Slide Show\obj\Debug\Slide_Show.Properties.Resources.resources
+F:\visual studio 2017\c##\Slide Show\obj\Debug\Slide Show.csproj.GenerateResource.cache
+F:\visual studio 2017\c##\Slide Show\obj\Debug\Slide Show.csproj.CoreCompileInputs.cache
+F:\visual studio 2017\c##\Slide Show\obj\Debug\Slide Show.exe
+F:\visual studio 2017\c##\Slide Show\obj\Debug\Slide Show.pdb
